@@ -15,6 +15,8 @@ editor_options:
   chunk_output_type: inline
 ---
 
+> GM GRADE: 10/10 - outstanding work!
+
 ```{r setup, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(lubridate)
@@ -118,6 +120,8 @@ df %>% summarise(
 **Prompt (2–3 sentences):** Why did you choose this response variable? What do you expect its seasonality/day–night pattern to be?
 
 I chose this response variable because it should have a clear pattern between seasons and time of day. I expect during JJA and morning times it will be at its highest, while during DJF and evening times it should be at its lowest. 
+
+> GM: Great idea!
 
 ---
 
